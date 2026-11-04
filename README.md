@@ -108,4 +108,15 @@ A Sprint 4 concentra-se em qualidade e testes. Os casos manuais são registrados
 | Work item process | `Scrum` |
 | Acesso do professor | Convidado com nível de acesso **Basic** |
 
+## Parte A - Testes manuais (Azure Boards)
+- Menu Test Plans: 1 suíte por PBI da Sprint 4, 6 Test Cases, cada um na Iteration do PBI.
+- Sistema sob teste: API Java do Vitalia (Swagger no Render).
+- Catálogo completo: [`docs/`](docs/)
+- Evidências: `docs/Resultados testes manuais`
+
+- ## Parte B - Automação (Postman na web)
+- Collection e Environment: [`postman/`](postman/)
+- 5 requisições: login, rota sem token, perfil, pets do tutor e validação de campo obrigatório.
+- Como executar: importar o JSON no Postman e executar.
+  
 ---
