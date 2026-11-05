@@ -61,7 +61,7 @@ API REST em **ASP.NET Core / .NET 10** do módulo comercial da plataforma **Vita
 |------|------|
 | Repositório no GitHub | https://github.com/Grupo-BSL-Challenge-FIAP/Vitalia-ComplianceQA-Sprint4 |
 | Projeto no Azure DevOps | https://dev.azure.com/Grupo-BSL-Vitalia/Vitalia%20-%20Sprint%204%20-%20Compliance%20QA%20e%20Tests |
-| Vídeo no YouTube | `<URL vídeo>` |
+| Vídeo no YouTube | https://youtu.be/lQnFxPJWb7c |
 | Swagger - API Java | https://vitalia-txa9.onrender.com/swagger-ui/index.html#/ |
 
 ---
